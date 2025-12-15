@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👷🏻‍♂️ Engineeing at [<img src="https://https://www.einsteincollege.ac.in//_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75">]
+- 👷🏻‍♂️ Engineeing at [<img src="https://https://www.einsteincollege.ac.in//_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75">](www.einsteincollege.ac.in)
 
 - 💬 Ask me about **Java, React.Js**
 
@@ -41,4 +41,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Santa-28&show_icons=true&locale=en" alt="Santa-28" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Santa-28&" alt="Santa-28" /></p>
