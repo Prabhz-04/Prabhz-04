@@ -20,11 +20,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/prba.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prba.x" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/karanprbha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/karanprbha" height="30" width="40" /></a>
-<a href="https://fb.com/itz prabha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itz prabha" height="30" width="40" /></a>
-<a href="https://instagram.com/classy_prbx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="classy_prbx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@stupidkaran04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@stupidkaran04" height="30" width="40" /></a>
+<a href="https://x.com/KiLlErPrAbHa3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="KiLlErPrAbHa3" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karanprbha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karanprbha/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1Gw46VzqEh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1Gw46VzqEh/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pawfect.offl?igsh=MW1sM2JnYjZicng3cA==/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pawfect.offl?igsh=MW1sM2JnYjZicng3cA==/" height="30" width="40" /></a>
+<a href="www.youtube.com/@Stupidkaran04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@Stupidkaran04" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
