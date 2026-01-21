@@ -5,13 +5,15 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👷🏻‍♂️ Engineeing at **Einsten College of Engineering**
+- 🔭 I’m currently working on **College-ERP**
 
 - 💬 Ask me about **Java, React.Js**
 
-- 📫 How to reach me **prbhzoffice@gmail.com**
+- 📫 How to reach me **gpk0078@gmail.com**
 
 - 📄 Know about my experiences [https://prabha.tiiny.site](https://prabha.tiiny.site)
+
+- ⚡ Fun fact **I've backpacked through Southeast Asia**
 
 - Social Presence
 <br /><br />
