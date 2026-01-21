@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👷🏻‍♂️ Engineeing at [<img src="https://https://www.einsteincollege.ac.in//_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75">](www.einsteincollege.ac.in)
+- 👷🏻‍♂️ Engineeing at **Einsten College of Engineering**
 
 - 💬 Ask me about **Java, React.Js**
 
@@ -14,7 +14,7 @@
 - 📄 Know about my experiences [https://prabha.tiiny.site](https://prabha.tiiny.site)
 
 - Social Presence
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/prba.x) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karanprabha/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/classy_prbx/)
+<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/KiLlErPrAbHa3) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karanprabha/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/pawfect.offl?igsh=MW1sM2JnYjZicng3cA==/)
 
 
 <h3 align="left">Connect with me:</h3>
